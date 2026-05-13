@@ -1,0 +1,2 @@
+fonts-freefont-ttf
+libgl1
